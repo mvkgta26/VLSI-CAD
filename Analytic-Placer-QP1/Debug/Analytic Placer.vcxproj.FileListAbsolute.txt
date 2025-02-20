@@ -1,0 +1,8 @@
+C:\Users\MVK\Desktop\Projects\Asic Placer\Analytic Placer\Debug\Analytic Placer.exe
+C:\Users\MVK\Desktop\Projects\Asic Placer\Analytic Placer\Debug\Analytic Placer.pdb
+C:\Users\MVK\Desktop\Documents\Analytic Placer-Backup\Debug\Analytic Placer.exe
+C:\Users\MVK\Desktop\Documents\Analytic Placer-Backup\Debug\Analytic Placer.pdb
+C:\Users\MVK\Desktop\Documents\Analytic Placers Backups\Analytic Placer-Backup 1 (QP1)\Debug\Analytic Placer.exe
+C:\Users\MVK\Desktop\Documents\Analytic Placers Backups\Analytic Placer-Backup 1 (QP1)\Debug\Analytic Placer.pdb
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Debug\Analytic Placer.exe
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Debug\Analytic Placer.pdb

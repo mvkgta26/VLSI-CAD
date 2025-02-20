@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(170,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(177,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(181,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(182,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(261,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(373,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(380,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(384,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(385,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(480,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(489,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(563,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(560,15): warning C4101: 'y': unreferenced local variable
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(560,12): warning C4101: 'x': unreferenced local variable
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(699,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(713,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(906,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(1075,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(1136,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Source.cpp(1208,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Analytic Placer.vcxproj -> C:\Users\MVK\Desktop\All Projects\Analytic Placer-Backup 1 (QP1)\Debug\Analytic Placer.exe
